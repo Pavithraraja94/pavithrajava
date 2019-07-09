@@ -6,9 +6,9 @@ public class Product {
 	float discountrate;
 	double discountamount;
 	double saleprice;
-	
 	void findsaleprice()
 	{
+
 		/*Scanner scan = new Scanner(System.in);	
 	System.out.println("enter the productprice");
 	productprice = scan.nextFloat();
