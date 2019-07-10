@@ -1,9 +1,12 @@
-package com.practice.java;
+package exersicejuly10;
 
 import java.util.Scanner;
 
 public class ReverseOrder {
-	int num;
+	
+//int i;
+	public static void main(String[] args) {
+	//int num;
 	int i;
 	
   // void display()
@@ -13,11 +16,11 @@ public class ReverseOrder {
 		//System.out.println("Enter the value");
 		//num = scan.nextInt();
 	//}
-	void getOutput()
-	{
-		for( i=5;i<=1;i--);
-	
-	System.out.println(i);
-	}
+	//public void getOutput()
+	//{
+		for(  i=10;i>=1;i--)
+		System.out.println(i);
+	//}*/
 
+}
 }

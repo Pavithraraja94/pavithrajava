@@ -1,4 +1,4 @@
-package com.practice.java;
+package exercise1;
 
 import java.util.Scanner;
 
@@ -22,7 +22,7 @@ public class PrintSeries{
 		}
 	}
 	void EvenNumber()
-z v	{
+	{
 		System.out.println("EvenSeries");
 		for(int i=0;i<=n;i=i+2)
 		{
@@ -34,6 +34,7 @@ z v	{
 	void getOutput()
 	{
 		if (n%2 !=0)
+		
 		{
 			System.out.println(n+ " this is odd number " );
 		}

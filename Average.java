@@ -1,11 +1,11 @@
-package com.practice.java;
+package exercise1;
 
 import java.util.Scanner;
 
 public class Average {
 	int num1,num2,num3;
 	 float average;
-	 int sum=0;
+	 int sum;
 	void getInput()
 
 	{

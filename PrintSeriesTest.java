@@ -1,4 +1,4 @@
-package com.practice.java;
+package exercise1;
 
 public class PrintSeriesTest {
 
@@ -8,8 +8,7 @@ public class PrintSeriesTest {
 		ps.oddNumber();
 		ps.EvenNumber();
 		ps.getOutput();
-		ps.whi();
-		ps.for1();
+		
 	}
 
 }
